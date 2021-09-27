@@ -64,7 +64,7 @@ lifecycle: {}
 nextcloud:
   host: nextcloud.kube.home
   username: admin
-  password: changeme
+  password: changemeagain
   ## Use an existing secret
   existingSecret:
     enabled: false
